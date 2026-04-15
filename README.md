@@ -1,0 +1,3 @@
+- Configurar sistema de gerenciamento banco de dados relacional, conforme requisitos do sistema e tecnologia selecionada.
+- Criar comandos de criação de estruturas de banco de dados relacional, conforme comandos de definição de dados do SQL e requisitos do sistema.
+- Manipular dados em tabelas de banco de dados relacional (insert, delete, update) conforme comandos SQL e requisitos do sistema.
